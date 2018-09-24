@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body {\\n  margin: 0;\\n  padding: 0;\\n  font-family: Helvetica, sans-serif; }\\n\\nh1 {\\n  color: #00bdff;\\n  text-align: center; }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/styles/App.scss?./node_modules/css-loader!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body {\\n  margin: 0;\\n  padding: 0;\\n  font-family: Helvetica, sans-serif; }\\n\\nh1 {\\n  color: #333;\\n  text-align: center; }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/styles/App.scss?./node_modules/css-loader!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
