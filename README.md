@@ -1,5 +1,5 @@
 # ironclad-react-boilerplate
-## Starter kit for whipping up a React/SCSS project
+### Starter kit for whipping up a React/SCSS project
 This is my own personal version of a boilerplate starter kit.  
 Please feel free to utilize this yourself if you find it useful.
 
