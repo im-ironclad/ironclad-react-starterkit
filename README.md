@@ -7,13 +7,13 @@ I am going to be expanding on the build script and
 architecture the more I learn about webpack and its capabilities.
 
 I may decide to expand on this boilerplate to add an express backend server.  
-If I don't then I will most likely make a separate boilerplate for a full-stack mern project.
+If I don't then I will most likely make a separate starter kit for a full-stack mern project.
 
 ***
 
 ### Instructions
 1. Fork & Clone repo to your local environment.
-5. Remove/Update the .git Directory to the appropriate repo for your new project.
+5. Remove/Update the .git directory to the appropriate repo for your new project.
 7. If you prefer a different react component architecture or you're not using react-router    
 simply strip src/components and src/pages to start fresh
 3. Run **npm i** or **npm install** to install all the needed dependencies.
