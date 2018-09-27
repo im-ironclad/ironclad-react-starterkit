@@ -3,7 +3,7 @@
   
 Please feel free to utilize this yourself if you find it useful.
 
-I am going to be expanding on the build script(s) and  
+I am going to be expanding on the build script and  
 architecture the more I learn about webpack and its capabilities.
 
 I may decide to expand on this boilerplate to add an express backend server.  
