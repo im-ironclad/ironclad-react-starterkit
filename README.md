@@ -1,7 +1,8 @@
 # ironclad-react-starterkit
 ### Starter kit for whipping up a React/SCSS project
   
-Please feel free to utilize this yourself if you find it useful.
+Please feel free to utilize this yourself if you find it useful.  
+**It is still in progress**
 
 I am going to be expanding on the build script and  
 architecture the more I learn about webpack and its capabilities.
