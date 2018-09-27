@@ -20,9 +20,9 @@
 @import "settings/variables";
 
 // Animations must come after layout to call layout mixins
-@import "tools/layout";
-@import "tools/animations";
-@import "tools/typography";
+@import "mixins/layout";
+@import "mixins/animations";
+@import "mixins/typography";
 
 // Set/Reset generic things
 @import "generic/reset";
