@@ -1,0 +1,7 @@
+.intro {
+
+  &__heading {
+    @include font('heading-md');
+    font-weight: 800;
+  }
+}

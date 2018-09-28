@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 
-class Home extends Components {
+// Import components
+import Intro from '../components/Intro';
+
+class Home extends Component {
 
   render() {
     return (
-      <h1>
-        This is the homepage
-      </h1>
+      <Intro activePage="homepage" />
     )
   }
 }

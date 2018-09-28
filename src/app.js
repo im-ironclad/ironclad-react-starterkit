@@ -3,14 +3,13 @@ import ReactDOM from 'react-dom';
 
 import './styles/App.scss';
 
+// Import pages
+import Home from './pages/Home';
+
 class App extends Component {
   render() {
     return (
-      <div>
-        <h1>
-          React Boilerplate
-        </h1>
-      </div>
+      <Home />
     );
   }
 }
