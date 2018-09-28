@@ -3,13 +3,13 @@ import React, { Component } from 'react';
 // Import components
 import Intro from '../components/Intro';
 
-class Home extends Component {
+export default class Home extends Component {
 
   render() {
     return (
-      <Intro activePage="homepage" />
+      <div>
+        <Intro activePage="Home Page" />
+      </div>
     )
   }
 }
-
-export default Home;
