@@ -14,7 +14,7 @@ import Nav from './components/globals/Nav';
 
 class App extends Component {
 
-  // Router can only have one child, so wrap everything in main
+  // Router can only have one child, so wrap everything in main__cont
   render() {
     return (
       <BrowserRouter>
