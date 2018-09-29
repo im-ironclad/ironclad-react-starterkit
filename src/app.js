@@ -10,7 +10,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 
 // Import Global Components
-import Nav from './globals/Nav';
+import Nav from './components/globals/Nav';
 
 class App extends Component {
 
