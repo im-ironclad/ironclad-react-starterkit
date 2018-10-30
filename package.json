@@ -1,16 +1,17 @@
 {
-  "name": "reactfromscratch.localhost",
+  "name": "ironclad-react-starterkit",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "author": "Adam Wells",
+  "license": "ISC",
   "main": "/src/app.js",
   "scripts": {
+    "dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
@@ -21,7 +22,8 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
     "webpack": "^4.19.1",
-    "webpack-cli": "^3.1.1"
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
     "react": "^16.5.2",
